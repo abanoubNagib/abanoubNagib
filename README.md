@@ -14,7 +14,6 @@ positive team member, striving to utilize my knowledge and expertise for optimal
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github'  height='40' 
      
     
-        color: #4078c0
     
 
       
