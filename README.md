@@ -50,10 +50,10 @@ AI-powered medical assistant for OB-GYN specialists
 ## 📸 Gallery
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abanoubNagib/OB_GYN_Doctor_App/main/assets/images/Screenshot_2025-08-02%20143536.png" width="200">
-  <img src="https://raw.githubusercontent.com/abanoubNagib/OB_GYN_Doctor_App/main/assets/images/Screenshot_1729718725.png" width="200">
-  <img src="https://raw.githubusercontent.com/abanoubNagib/OB_GYN_Doctor_App/main/assets/images/Screenshot_1738584798.png" width="200">
-  <img src="https://raw.githubusercontent.com/abanoubNagib/OB_GYN_Doctor_App/main/assets/images/WhatsApp%20Image%202025-01-17%20at%2017.13.33_555a8213.jpg" width="200">
+  <img src="https://raw.githubusercontent.com/abanoubNagib/OB_GYN_Doctor_App/main/assets/images/screenshot1.png" width="200">
+  <img src="https://raw.githubusercontent.com/abanoubNagib/OB_GYN_Doctor_App/main/assets/images/screenshot2.png" width="200">
+  <img src="https://raw.githubusercontent.com/abanoubNagib/OB_GYN_Doctor_App/main/assets/images/screenshot3.png" width="200">
+  <img src="https://raw.githubusercontent.com/abanoubNagib/OB_GYN_Doctor_App/main/assets/images/whatsapp_image.jpg" width="200">
 </p>
 
 ---
