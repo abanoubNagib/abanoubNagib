@@ -28,18 +28,6 @@ positive team member, striving to utilize my knowledge and expertise for optimal
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/pepo.lotfy.9)  
 
 
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abanoubNagib&show_icons=true&theme=tokyonight" />
-  <br/>
-  <br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abanoubNagib&theme=tokyonight" />
-</p>
-
----
-
 ## 💼 Tech Stack
 
 - 🧩 Flutter, Dart
@@ -68,19 +56,23 @@ AI-powered medical assistant for OB-GYN specialists
 
 ---
 
-## 📫 Connect With Me
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abanoubNagib&show_icons=true&theme=tokyonight" />
+  <br/>
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abanoubNagib&theme=tokyonight" />
+</p>
+
+---
 
 ## 📫 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abanoub.nagib)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abanoubNagib)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abanoub_nagib)
-
-
-- 💬 Telegram: [@abanoub_nagib](https://t.me/BebOo0o@A)
-- 💼 LinkedIn: [linkedin.com/in/abanoubNagib](https://www.linkedin.com/in/abanoub-nagiub-lotfy-96538725a/)
-- 📧 Email: abanoupsafwt30@gmail.com
-- 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/pepo.lotfy.9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abanoub-nagiub-lotfy-96538725a/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@BebOo0oA)
 
 
 
